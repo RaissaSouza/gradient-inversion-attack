@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#models
+.pt
+
+#data folders
+pd_data_csv/
+logs/
+inference/
+
+#mac files
+._*
+.DS*
