@@ -229,3 +229,4 @@ results/
 #mac files
 ._*
 .DS*
+baselines/regression/results/
