@@ -224,6 +224,7 @@ __marimo__/
 pd_data_csv/
 logs/
 inference/
+results/
 
 #mac files
 ._*
